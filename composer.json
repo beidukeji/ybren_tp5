@@ -1,0 +1,8 @@
+{
+    "name": "ybren/tp5",
+    "description": "thinkphp5.0 modify",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
